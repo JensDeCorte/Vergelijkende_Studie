@@ -1,1 +1,1 @@
-# OpenGl vs. Canvas 2d - Vergelijkende Studie #
+# WebGl vs. Canvas2D - Vergelijkende Studie #
