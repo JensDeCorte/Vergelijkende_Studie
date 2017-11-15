@@ -1,1 +1,1 @@
-# WebGl vs. Canvas2D - Vergelijkende Studie #
+# WebGl vs Canvas2D - Vergelijkende Studie #
